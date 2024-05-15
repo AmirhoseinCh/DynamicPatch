@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ## Installation
 
-First, ensure you have Python installed on your system. Then, install the required Python packages using the `requirements.txt` file provided in this repository.
+First, ensure you have Yolov5 installed. Then, install the required Python packages using the `requirements.txt` file provided in this repository.
 
 ```bash
 pip install -r requirements.txt
