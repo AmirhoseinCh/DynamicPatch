@@ -17,19 +17,19 @@ Download the data required for training and evaluation from the [Google Drive li
 
 To install YOLOv5, clone the official repository and install the requirements:
 
-\`\`\`bash
+```bash
 git clone https://github.com/ultralytics/yolov5.git
 cd yolov5
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## Installation
 
 First, ensure you have Python installed on your system. Then, install the required Python packages using the \`requirements.txt\` file provided in this repository.
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 The \`requirements.txt\` file includes the following dependencies:
 
