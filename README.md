@@ -59,7 +59,7 @@ To train patches, run:
 python train.py
 ```
 
-To train the SIT-Net model, refer to `screen_model.ipynb`.
+To train the SIT-Net model, refer to `Screen_Model.ipynb`.
 
 ## Contributing
 
