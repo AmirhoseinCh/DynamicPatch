@@ -7,10 +7,10 @@ This repository contains the code and data for the paper "Dynamic Adversarial At
 
 ## Download Data
 
-Download the data required for training and evaluation from the [Google Drive link](https://drive.google.com/drive/folders/1UiODhj44Wos0TJAiK1067lCwvnoJt0qu). The directory structure should be as follows:
+Download the data required for training and evaluation from the [Google Drive link](https://drive.google.com/drive/folders/1UiODhj44Wos0TJAiK1067lCwvnoJt0qu). The directory structure for each sign, should be as follows:
 
-- `./Data` : Includes clustered images to train the patch (clusters: 0, 1, and 2).
-- `./Data/coords` : Includes the four coordinates of the screen needed for applying the patch.
+- `./images` : Includes clustered images to train the patch (clusters: 0, 1, and 2).
+- `./coords` : Includes the four coordinates of the screen needed for applying the patch.
 - `./Screen_data` : Includes data for the SIT-Net model.
 
 ## YOLOv5 Installation
@@ -53,7 +53,13 @@ The \`requirements.txt\` file includes the following dependencies:
 
 ## Usage
 
-Detailed instructions on how to use the code for generating dynamic adversarial attacks and evaluating the performance of autonomous driving systems will be provided here.
+To train patches, run:
+
+```bash
+python train.py
+```
+
+To train the SIT-Net model, refer to `screen_model.ipynb`.
 
 ## Contributing
 
