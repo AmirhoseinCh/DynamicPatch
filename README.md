@@ -61,9 +61,6 @@ python train.py
 
 To train the SIT-Net model, refer to `Screen_Model.ipynb`.
 
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 ## License
 
