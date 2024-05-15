@@ -31,7 +31,7 @@ First, ensure you have Python installed on your system. Then, install the requir
 pip install -r requirements.txt
 ```
 
-The \`requirements.txt\` file includes the following dependencies:
+The `requirements.txt` file includes the following dependencies:
 
 - fnmatch
 - math
