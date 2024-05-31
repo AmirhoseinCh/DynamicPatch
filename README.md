@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This repository contains the code and data for the paper "Dynamic Adversarial Attacks on Autonomous Driving Systems." [Link](https://arxiv.org/abs/2312.06701)   [Video](https://youtu.be/Wh2sPYpWczQ?si=QjP9Uom85iIekzuj)
+This repository contains the code and data for the paper "Dynamic Adversarial Attacks on Autonomous Driving Systems." [Link](https://arxiv.org/abs/2312.06701),   [Video](https://youtu.be/Wh2sPYpWczQ?si=QjP9Uom85iIekzuj)
 
 The project focuses on generating dynamic adversarial attacks to test and improve the robustness of autonomous driving systems.
 
